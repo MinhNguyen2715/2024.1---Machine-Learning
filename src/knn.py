@@ -9,8 +9,9 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 
+
+df = pd.read_excel("data/rice.xlsx")
 start = time.time()
-df = pd.read_excel("rice.xlsx")
 X = df.drop(columns=['Class'])
 y = df['Class']
 print(df.head(5))
