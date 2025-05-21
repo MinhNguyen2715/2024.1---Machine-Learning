@@ -1,6 +1,6 @@
 # Rice Variety Classification Using Machine Learning
 
-This project focuses on the binary classification of rice grain varieties — **Osmancik** and **Cammeo** — using various machine learning models. It was developed as part of the ***IT3190E - Machine Learning*** course at the **Hanoi University of Science and Technology (HUST)**.
+This project focuses on the binary classification of rice grain varieties — **Osmancik** and **Cammeo** — using various machine learning models. It was developed as part of the ***IT3190E - Machine Learning*** course, semester **2024.2** at the **Hanoi University of Science and Technology (HUST)**.
 
 ## 📁 Project Overview
 
